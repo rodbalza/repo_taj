@@ -1,2 +1,2 @@
 # repo_taj  
-SQL for Data Scientist
+SQL for Data Scientist.
